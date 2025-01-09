@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-(5xpghz(gj11dg8p6e*05v241lc7ww0!nc)_ig6p6=4ip1m!*d
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS =  ['moviegenreapi.onrender.com', 'localhost']
+ALLOWED_HOSTS =  ['movie-scraper-by-genre-api.onrender.com','moviegenreapi.onrender.com', 'localhost']
 
 
 # Application definition
